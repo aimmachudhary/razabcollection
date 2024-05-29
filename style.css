@@ -1,0 +1,243 @@
+.body{
+  margin: auto;
+}
+.nav{
+background-color: black;
+color: white;
+display: flex;
+justify-content:space-between;
+}
+.left{
+  margin-left: 10px;
+}
+.center{
+  display: flex;
+  gap: 14px;
+  margin-top: 7px;
+}
+.center a{
+  text-decoration: none;
+  color:black;
+}
+.center a:hover{
+  color:rgb(145, 115, 40);
+}
+.right{
+ display:flex;
+ margin-right: 10px;
+ margin-top: 15px;
+} 
+.right a{
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+.right a:hover{
+ color: blue;
+ transform: translateY(-2px);
+}
+.navbar{
+  display: flex;
+justify-content:space-between;
+margin: 10px;
+}
+.first img{
+  height: 70%;
+  width: 70%;
+}
+.second{
+  margin-top: 5px;
+  margin-right: 10px;
+  font-size: 22px;
+}
+.second a{
+color: rgb(0, 0, 0);
+
+}
+.second a:hover{
+  color:rgb(145, 115, 40);;
+}
+.content img{
+  height: 100%;
+  width: 100%;
+}
+.heading1{
+  text-align: center;
+  margin: 25px;
+}
+.kash{
+ font-family: Arial, Helvetica, sans-serif;
+ display: flex;
+ margin: 25px;
+}
+.kash img{
+  height: 85%;
+  width: 95%;
+}
+.kash .name:hover{
+  color:rgb(145, 115, 40);
+}
+.heading2{
+  text-align: center;
+  margin: 25px;
+}
+.haya{
+ font-family: Arial, Helvetica, sans-serif;
+ display: flex;
+ margin: 25px;
+}
+.haya img{
+  height: 85%;
+  width: 95%;
+}
+.haya .name:hover{
+  color:rgb(145, 115, 40);
+}
+.heading3{
+  text-align: center;
+  margin: 25px;
+}
+.shad{
+ font-family: Arial, Helvetica, sans-serif;
+ display: flex;
+ margin: 25px;
+}
+.shad img{
+  height: 85%;
+  width: 95%;
+}
+.shad .name:hover{
+  color:rgb(145, 115, 40);
+}
+.heading4{
+  text-align: center;
+  margin: 25px;
+}
+.mhk{
+ font-family: Arial, Helvetica, sans-serif;
+ display: flex;
+ margin: 25px;
+}
+.mhk img{
+  height: 85%;
+  width: 95%;
+}
+.mhk .name:hover{
+  color:rgb(145, 115, 40);
+}
+.heading5{
+  text-align: center;
+  margin: 25px;
+}
+.gla{
+ font-family: Arial, Helvetica, sans-serif;
+ display: flex;
+ margin: 25px;
+}
+.gla img{
+  height: 85%;
+  width: 95%;
+}
+.gla .name:hover{
+  color:rgb(145, 115, 40);
+}
+.banner img{
+  height: 100%;
+  width: 100%;
+  margin-top:2px;
+}
+.footer{
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding:7%;
+  margin-top: 50px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.footer h4{
+  color:rgb(145, 115, 40);
+}
+.icon{
+color: white;
+font-size: 15px;
+} 
+
+.icon a{
+margin-left: 10px;
+}
+.anchor{
+  color: white;
+  text-decoration: none;
+}
+.anchor:hover{
+  color:rgb(145, 115, 40);
+}
+  .ctgries{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+  }
+  .ctgries .anchor{
+    margin-top: 5%;
+  }
+  .cstmr{
+    display: flex;
+      flex-direction: column;
+      font-size: 15px;
+  }
+  .cstmr .anchor{
+    margin-top: 5%;
+  }
+
+.sbscrbe{
+  padding-top: 30px;
+  color: white;
+ font-size: 15px;
+}
+
+.box input{
+background: #000;
+border:1%;
+padding: 9px;
+width: 14rem;
+border-color: rgb(145, 115, 40);
+color: rgb(145, 115, 40);
+}
+.box button{
+  background-color: rgb(145, 115, 40);
+  border: none;
+  padding: 11px;
+  color: white;
+  
+}
+::-webkit-input-placeholder{
+color:rgb(145, 115, 40);
+}
+.check{
+  margin-top: 30px;
+}
+input[type='checkbox'] {
+  accent-color:rgb(145, 115, 40);
+}
+.check .term{
+  color: white;
+}
+.check a:hover{
+  color:rgb(145, 115, 40);
+}
+.represent{
+  color: gray;
+  margin: 2%;
+}
+.represent .rzbtex{
+  font-weight: bolder;
+  color: #000;
+}
+.brandname{
+  background-color:rgb(68, 66, 66);
+  padding: 2%;
+  color: white;
+ font-size: 8px;
+ font-family: arial;
+ text-align: center;
+}
